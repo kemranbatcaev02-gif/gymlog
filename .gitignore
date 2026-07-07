@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+data/gymlog.db
+data/config.json
+*.csv
